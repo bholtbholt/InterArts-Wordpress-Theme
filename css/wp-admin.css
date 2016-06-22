@@ -1,0 +1,60 @@
+.meta-box-title {margin-bottom:.6em}
+.full-width {width: 100%}
+.strong {font-weight: bold}
+.margin-bottom {margin-bottom: 1em}
+.meta-box-textarea {width: 100%; height: 150px}
+.meta-box-textarea.tall {height: 300px}
+.meta-box-input.full-width {width: 100%}
+.radio-group > label {
+	margin: 0 10px;
+	top: -1.5px;
+	position: relative;
+}
+.radio-group > label.featured-checkbox {margin-left: 40px}
+.page-meta-checkboxes {display: block; margin-bottom: 5px}
+.meta-inline {float:left; width: 50%}
+.meta-inline:first-of-type {margin-right:3%; width: 47%}
+.meta-inline > input {width: 100%; margin-bottom: 1.2em}
+.column {width: 31%; float: left; margin-right: 2%}
+.column:nth-of-type(3) {width: 34%; margin-right: 0}
+
+#bg_color_box {
+	width: 28px;
+	height: 28px;
+	float:left;
+	border-radius: 4px;
+}
+#bg_color_select_wrapper {margin-left: 38px}
+
+
+/* Update the colors! */
+.lime-bg {background-color:#ceda42}
+.green-bg {background-color:#cbdb2a}
+.chartreuse-bg {background-color:#c5fd00}
+.sage-bg {background-color:#c0ee8f}
+.sea-foam-bg {background-color:#b8e6c4}
+.powder-blue-bg {background-color:#c5fffb}
+.baby-blue-bg {background-color:#9bf0e9}
+.bright-bue-bg {background-color:#70ecda}
+.teal-bg {background-color:#00c0dc}
+.blue-bg {background-color:#00aeef}
+.teal-2-bg {background-color:#00b1b2}
+.dark-teal-bg {background-color:#006b98}
+.dark-blue-bg {background-color:#004199}
+.rust-bg {background-color:#88232f}
+.bright-red-bg {background-color:#ff1907}
+.red-bg {background-color:#f23843}
+.pinkish-red-bg {background-color:#cb1762}
+.pink-bg {background-color:#ec008c}
+.bright-yellow-bg {background-color:#ffff0b}
+.yellow-bg {background-color:#eec12d}
+.orange-bg {background-color:#fd9827}
+.brown-bg {background-color:#b9791c}
+.brown-2-bg {background-color:#843000}
+.cream-bg {background-color:#f8f8eb}
+.tan-bg {background-color:#e7d2c0}
+.light-grey-bg {background-color:#d0d0c5}
+.sand-bg {background-color:#c2b59b}
+.grey-2-bg {background-color:#828275}
+.grey-bg {background-color:#545959}
+.charcoal-bg {background-color:#30302c}
